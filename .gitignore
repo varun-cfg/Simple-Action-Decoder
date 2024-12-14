@@ -1,0 +1,15 @@
+build/*
+.idea/*
+cmake-build-debug/
+*.pyc
+*/__pycache__/*
+.DS_Store
+pyhanabi/exps
+sweep
+sweep_*
+plot.png
+sweep*.py
+*.ipynb*
+models/*
+!models/download.sh
+!models/op_raw_data.txt
